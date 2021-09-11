@@ -1,4 +1,4 @@
-# Robot Eye Circuit
+# LEDs Robot Eyes Circuit
 
 --- 
 
